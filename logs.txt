@@ -1,0 +1,16 @@
+17:48:45,588 uvicorn.error INFO Shutting down
+17:48:45,689 uvicorn.error INFO Waiting for application shutdown.
+17:48:45,689 uvicorn.error INFO Application shutdown complete.
+17:48:45,689 uvicorn.error INFO Finished server process [15155]
+17:48:56,795 root INFO Running Urban Planning
+17:48:56,814 uvicorn.error ERROR Error loading ASGI app. Attribute "app" not found in module "server".
+17:50:06,429 root INFO Running Urban Planning
+17:50:06,447 root INFO Running Urban Planning
+17:50:06,447 uvicorn.error INFO Started server process [15231]
+17:50:06,447 uvicorn.error INFO Waiting for application startup.
+17:50:06,447 uvicorn.error INFO Application startup complete.
+17:50:06,450 uvicorn.error INFO Uvicorn running on http://127.0.0.1:7777 (Press CTRL+C to quit)
+17:50:08,978 uvicorn.error INFO Shutting down
+17:50:09,80 uvicorn.error INFO Waiting for application shutdown.
+17:50:09,81 uvicorn.error INFO Application shutdown complete.
+17:50:09,82 uvicorn.error INFO Finished server process [15231]
